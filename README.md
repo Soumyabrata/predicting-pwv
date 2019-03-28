@@ -2,7 +2,7 @@
 With the spirit of reproducible research, this repository contains all the codes required to produce the results in the manuscript:
 > S. Manandhar&ast;, S. Dev&ast;, Y. H. Lee and S. Winkler, Predicting GPS-based PWV Measurements Using Exponential Smoothing, IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting, 2019 (&ast; Authors contributed equally).
 
-![summary](./results/aps2019asummary.png)
+![summary](./results/aps2019a-summary.png)
 
 Please cite the above paper if you intend to use whole/part of the code. This code is only for academic and research purposes.
 
